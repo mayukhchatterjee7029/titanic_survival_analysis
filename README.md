@@ -5,6 +5,8 @@ This repository contains a Jupyter Notebook that demonstrates preprocessing tech
 ## 📦Dataset Courtesy:  
 This notebook uses the Titanic dataset provided by Mr. [Aurélien Géron](https://github.com/ageron/handson-ml2) as part of his book *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* (3rd Edition).
 
+## 🔗 Kaggle Notebook [Link](https://www.kaggle.com/code/mayukh7029/titanic-data-analysis)
+
 ## 📌 Key Features
 
 - Extraction from compressed archive
