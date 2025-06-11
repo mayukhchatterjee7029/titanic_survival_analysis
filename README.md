@@ -2,11 +2,14 @@
 
 This repository contains a Jupyter Notebook that demonstrates preprocessing techniques on the Titanic dataset. It includes data extraction, cleaning, encoding, and basic preparation for machine learning pipelines.
 
+---
 ## 📦Dataset Courtesy:  
 This notebook uses the Titanic dataset provided by Mr. [Aurélien Géron](https://github.com/ageron/handson-ml2) as part of his book *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* (3rd Edition).
 
+---
 ## 🔗 Kaggle Notebook [Link](https://www.kaggle.com/code/mayukh7029/titanic-data-analysis)
 
+---
 ## 📌 Key Features
 
 - Extraction from compressed archive
@@ -20,6 +23,7 @@ This notebook uses the Titanic dataset provided by Mr. [Aurélien Géron](https:
   - Dropped `Cabin`, `Name`, `Ticket`, and `PassengerId`
 - Ready-to-use cleaned dataset for supervised learning models
 
+---
 ## 🛠️ Requirements
 
 - Python 3.8+
@@ -34,3 +38,7 @@ Install dependencies via pip:
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+```
+
+---
+⭐ If you found this project helpful, please consider giving it a star!
